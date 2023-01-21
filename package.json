@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mvavilin/lecture-markup/issues"
   },
-  "homepage": "https://github.com/mvavilin/lecture-markup#readme"
+  "homepage": "https://github.com/mvavilin/lecture-markup#readme",
+  "dependencies": {
+    "normalize-scss": "^7.0.1"
+  }
 }
